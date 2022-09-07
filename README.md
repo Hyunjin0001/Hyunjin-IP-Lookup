@@ -1,4 +1,4 @@
-https://discord.gg/hiruma
+https://discord.gg/wWmBE2EB9v
 
 Executer le fichier ip lookup.py, enjoy :D
 
